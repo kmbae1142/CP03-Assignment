@@ -7,6 +7,7 @@
 https://www.gamesaien.com/game/fruit_box_a/
 
 <게임 화면 예시>
+
 ![이미지](https://s3.amazonaws.com/hr-assets/0/1744338555-d05336dbaa-2025-04-11112906.png)
 
 ## Input Format
